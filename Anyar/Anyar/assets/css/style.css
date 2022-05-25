@@ -414,7 +414,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 80vh;
   overflow: hidden;
   position: relative;
-  background: url("../img/geo.jpg") top center;
+  background: url("../img/Frame 1.png") top center;
   background-size: cover;
   position: relative;
   margin-bottom: -90px;
@@ -424,7 +424,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero:before {
   content: "";
   /*background: rgb(14, 14, 14);*/
-  background-color: #48cae4b7;
+  /*background-color: #48cae4b7;-------BACKGROUND TRANSPARANT*/
   position: absolute;
   bottom: 0;
   top: 0;
