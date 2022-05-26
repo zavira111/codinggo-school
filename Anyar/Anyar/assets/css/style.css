@@ -480,14 +480,14 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  color: #fff;
+  color: rgb(32, 32, 32);
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #f6b024;
+  border: 2px solid #2c2c2c;
 }
 #hero .btn-get-started:hover {
-  background: #f6b024;
-  color: #fff;
+  background: rgb(27, 27, 27);
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 @media (min-width: 1024px) {
